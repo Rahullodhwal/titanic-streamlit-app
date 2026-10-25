@@ -1,8 +1,8 @@
 # 🚢 Titanic Survival Predictor — Streamlit ML Web App
 
-An interactive web app that wraps a trained scikit-learn model with input widgets and a real-time prediction. Built for **InternCircle — Data Science & AI, Project 05 (Streamlit / Gradio Interactive ML Web App)**.
+An interactive web app that wraps a trained scikit-learn model with input widgets and a real-time prediction. 
 
-**Live app:** _add your Streamlit Community Cloud link here_
+**Live app:** https://customer-segmentation-app-gqigbpbpgelhvg3v7tekm3.streamlit.app/
 
 ## Features
 - Streamlit interface with selectbox, radio and slider inputs (sensible min / max / defaults)
